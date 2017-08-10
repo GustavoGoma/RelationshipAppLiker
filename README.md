@@ -19,4 +19,6 @@ Esse código foi feito mais como uma zoeira pra um vídeo postado no Facebook do
 2. Abra a IDE e mande rodar. :)
 
 ## Vídeo da utilização
-[Vídeo] (/media/video/video.mp4)
+<video width="640" height="480" controls preload> 
+    <source src="/media/video/video.mp4"></source>
+</video>
