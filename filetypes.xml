@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="video_page_example" type="HTML" />
+      <mapping pattern="procedures" type="SQL" />
     </extensionMap>
   </component>
 </application>
